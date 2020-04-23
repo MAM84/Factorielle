@@ -5,4 +5,4 @@ Cet exercice consistait à créer une fonction factorielle de 3 façons différe
 - En utilisant une boucle for
  - En utilisant une fonction récursive
 
-Les fonctions sont à lancer dans la console.
+Les fonctions sont à lancer dans la console : function fact(nb)
